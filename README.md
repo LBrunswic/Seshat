@@ -1,6 +1,6 @@
 SESHAT: Handwritten math expression parser
 ==========================================
-*This repository is a duplicate from https://github.com/falvaro/seshat which is not maintained. The pull request #16 of the original repository have been included to allow compilation on modern compiler*
+*This repository is a duplicate from https://github.com/falvaro/seshat which is not maintained. The pull request #18 of the original repository have been included to allow compilation on modern compiler*
 
 
 *Seshat* is an open-source system for recognizing handwritten
