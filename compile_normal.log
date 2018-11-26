@@ -1,0 +1,5 @@
+g++  -c online.cc -O3 -Wno-unused-result -fpermissive  
+g++  -c featureson.cc -O3 -Wno-unused-result -fpermissive  
+g++  -c symfeatures.cc -O3 -Wno-unused-result -fpermissive  
+Makefile:65: recipe for target 'symfeatures.o' failed
+make: *** [symfeatures.o] Interrompre
